@@ -1,0 +1,20 @@
+[{
+    "name":"vikram",
+    "rating":"9.1",
+    "releaseDate":"21/2/21"
+},
+{
+    "name":"master",
+    "rating":"9.5",
+    "releaseDate":"23/5/19"
+},
+{
+    "name":"Bahubali",
+    "rating":"9.2",
+    "releaseDate":"2/5/22"
+},
+{
+    "name":"remo",
+    "rating":"8.2",
+    "releaseDate":"28/4/12"
+}]
